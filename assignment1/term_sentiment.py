@@ -91,7 +91,7 @@ def hw():
             
             # 2.5.1. Compute the sentiment_score for the tweet text by this formula:
             #           sentiment_score = aggregate_score / sentiment_word_count
-            sentiment_score = aggregate_score / sentiment_word_count 
+            sentiment_score = float(aggregate_score) / sentiment_word_count 
             
             # 2.5.2. For each tweet_non_sentiment_dict entry (tweet_non_sentiment_word)
             for tweet_non_sentiment_word in tweet_non_sentiment_dict:    
