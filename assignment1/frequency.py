@@ -54,9 +54,6 @@ def hw():
     for word_frequency in frequency_histogram_dict:
         print word_frequency + "\t" + str(frequency_histogram_dict.get(word_frequency))
     
-def lines(fp):
-    return len(fp.readlines())
-
 def main():
     hw()
     tweet_feed_file = open(sys.argv[1])
