@@ -57,7 +57,6 @@ def hw():
 def main():
     hw()
     tweet_feed_file = open(sys.argv[1])
-    print lines(tweet_feed_file)
     
 if __name__ == "__main__":
     main()
