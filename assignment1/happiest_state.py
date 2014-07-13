@@ -18,7 +18,7 @@ states = {
       { "lat" : 30.448673, "lng" : -88.505859 },
       { "lat" : 34.957996, "lng" : -88.154297 } ],
     "keywords" : [ "alabama" ],
-    "statelongname" : "alabama"
+    "statelongname" : "Alabama"
   },
   "ar" : {
     "borders" : [ { "lat" : 36.597889, "lng" : -94.570312 },
@@ -33,11 +33,11 @@ states = {
       { "lat" : 35.924644, "lng" : -94.526367 },
       { "lat" : 36.597889, "lng" : -94.570312 } ],
     "keywords" : [ "arkansas" ],
-    "statelongname" : "arkansas"
+    "statelongname" : "Arkansas"
   },
   "as" : {
     "keywords" : [ "american samoa", "samoa" ],
-    "statelongname" : "american samoa"
+    "statelongname" : "American samoa"
   },
   "az" : {
     "borders" : [ { "lat" : 32.546814, "lng" : -115.092773 },
@@ -50,7 +50,7 @@ states = {
       { "lat" : 34.379711, "lng" : -114.389648 },
       { "lat" : 32.546814, "lng" : -115.092773 } ],
     "keywords" : [ "arizona", "phoenix" ],
-    "statelongname" : "arizona"
+    "statelongname" : "Arizona"
   },
   "ca" : {
     "borders" : [ { "lat" : 32.620869, "lng" : -117.246094 },
@@ -64,7 +64,7 @@ states = {
       { "lat" : 33.651207, "lng" : -117.773438 },
       { "lat" : 32.620869, "lng" : -117.246094 } ],
     "keywords" : [ "california", "hollywood", "san francisco", "los angeles", "san diego" ],
-    "statelongname" : "california"
+    "statelongname" : "California"
   },
   "co" : {
     "borders" : [ { "lat" : 40.913513, "lng" : -102.172852 },
@@ -73,7 +73,7 @@ states = {
       { "lat" : 41.046219, "lng" : -109.116211 },
       { "lat" : 40.913513, "lng" : -102.172852 } ],
     "keywords" : [ "colorado" ],
-    "statelongname" : "colorado"
+    "statelongname" : "Colorado"
   },
   "ct" : {
     "borders" : [ { "lat" : 42.016651, "lng" : -71.806641 },
@@ -83,11 +83,11 @@ states = {
       { "lat" : 42.065605, "lng" : -73.45459 },
       { "lat" : 42.016651, "lng" : -71.806641 } ],
     "keywords" : [ "connecticut" ],
-    "statelongname" : "connecticut"
+    "statelongname" : "Connecticut"
   },
   "dc" : {
     "keywords" : [ "district of columbia" ],
-    "statelongname" : "district of columbia"
+    "statelongname" : "District of Columbia"
   },
   "de" : {
     "borders" : [ { "lat" : 38.82259, "lng" : -75.135498 },
@@ -98,7 +98,7 @@ states = {
       { "lat" : 38.462193, "lng" : -75.025635 },
       { "lat" : 38.82259, "lng" : -75.135498 } ],
     "keywords" : [ "delaware" ],
-    "statelongname" : "delaware"
+    "statelongname" : "Delaware"
   },
   "fl" : {
     "borders" : [ { "lat" : 30.259068, "lng" : -87.539062 },
@@ -117,7 +117,7 @@ states = {
       { "lat" : 30.334953, "lng" : -86.264648 },
       { "lat" : 30.259068, "lng" : -87.539062 } ],
     "keywords" : [ "florida", "tampa", "miami", "callahan" ],
-    "statelongname" : "florida"
+    "statelongname" : "Florida"
   },
   "ga" : {
     "borders" : [ { "lat" : 34.957996, "lng" : -85.693359 },
@@ -131,15 +131,15 @@ states = {
       { "lat" : 35.101933, "lng" : -83.276367 },
       { "lat" : 34.957996, "lng" : -85.693359 } ],
     "keywords" : [ "georgia", "atlanta" ],
-    "statelongname" : "georgia"
+    "statelongname" : "Georgia"
   },
   "gu" : {
     "keywords" : [ "guam" ],
-    "statelongname" : "guam"
+    "statelongname" : "Guam"
   },
   "hi" : {
     "keywords" : [ "hawaii" ],
-    "statelongname" : "hawaii"
+    "statelongname" : "Hawaii"
   },
   "ia" : {
     "borders" : [ { "lat" : 43.484814, "lng" : -96.416016 },
@@ -154,7 +154,7 @@ states = {
       { "lat" : 43.516689, "lng" : -91.318359 },
       { "lat" : 43.484814, "lng" : -96.416016 } ],
     "keywords" : [ "iowa" ],
-    "statelongname" : "iowa"
+    "statelongname" : "Iowa"
   },
   "id" : {
     "borders" : [ { "lat" : 42.163403, "lng" : -116.982422 },
@@ -169,7 +169,7 @@ states = {
       { "lat" : 48.922501, "lng" : -117.158203 },
       { "lat" : 42.163403, "lng" : -116.982422 } ],
     "keywords" : [ "idaho" ],
-    "statelongname" : "idaho"
+    "statelongname" : "Idaho"
   },
   "il" : {
     "borders" : [ { "lat" : 37.0201, "lng" : -89.208984 },
@@ -189,7 +189,7 @@ states = {
       { "lat" : 37.09024, "lng" : -88.505859 },
       { "lat" : 37.0201, "lng" : -89.208984 } ],
     "keywords" : [ "illinois", "chicago" ],
-    "statelongname" : "illinois"
+    "statelongname" : "Illinois"
   },
   "in" : {
     "borders" : [ { "lat" : 39.164143, "lng" : -84.814453 },
@@ -203,7 +203,7 @@ states = {
       { "lat" : 38.238178, "lng" : -85.957031 },
       { "lat" : 39.164143, "lng" : -84.814453 } ],
     "keywords" : [ "indiana" ],
-    "statelongname" : "indiana"
+    "statelongname" : "Indiana"
   },
   "ks" : {
     "borders" : [ { "lat" : 40.010788, "lng" : -102.041016 },
@@ -214,7 +214,7 @@ states = {
       { "lat" : 37.09024, "lng" : -102.084961 },
       { "lat" : 40.010788, "lng" : -102.041016 } ],
     "keywords" : [ "kansas" ],
-    "statelongname" : "kansas"
+    "statelongname" : "Kansas"
   },
   "ky" : {
     "borders" : [ { "lat" : 37.544579, "lng" : -82.045898 },
@@ -232,7 +232,7 @@ states = {
       { "lat" : 36.527294, "lng" : -83.803711 },
       { "lat" : 37.544579, "lng" : -82.045898 } ],
     "keywords" : [ "kentucky", "campbellsville" ],
-    "statelongname" : "kentucky"
+    "statelongname" : "Kentucky"
   },
   "la" : {
     "borders" : [ { "lat" : 33.13755, "lng" : -93.867188 },
@@ -245,7 +245,7 @@ states = {
       { "lat" : 29.993002, "lng" : -93.779297 },
       { "lat" : 33.13755, "lng" : -93.867188 } ],
     "keywords" : [ "louisiana" ],
-    "statelongname" : "louisiana"
+    "statelongname" : "Louisiana"
   },
   "ma" : {
     "borders" : [ { "lat" : 42.795403, "lng" : -73.344727 },
@@ -266,7 +266,7 @@ states = {
       { "lat" : 42.057449, "lng" : -73.432617 },
       { "lat" : 42.795403, "lng" : -73.344727 } ],
     "keywords" : [ "massachusetts", "boston" ],
-    "statelongname" : "massachusetts"
+    "statelongname" : "Massachusetts"
   },
   "md" : {
     "borders" : [ { "lat" : 38.479397, "lng" : -75.146484 },
@@ -282,7 +282,7 @@ states = {
       { "lat" : 36.809284, "lng" : -76.113281 },
       { "lat" : 38.479397, "lng" : -75.146484 } ],
     "keywords" : [ "maryland" ],
-    "statelongname" : "maryland"
+    "statelongname" : "Maryland"
   },
   "me" : {
     "borders" : [ { "lat" : 44.855869, "lng" : -66.862793 },
@@ -304,7 +304,7 @@ states = {
       { "lat" : 44.386692, "lng" : -68.115234 },
       { "lat" : 44.855869, "lng" : -66.862793 } ],
     "keywords" : [ "maine" ],
-    "statelongname" : "maine"
+    "statelongname" : "Maine"
   },
   "mi" : {
     "borders" : [ { "lat" : 41.804077, "lng" : -86.660156 },
@@ -322,7 +322,7 @@ states = {
       { "lat" : 41.738529, "lng" : -83.979492 },
       { "lat" : 41.804077, "lng" : -86.660156 } ],
     "keywords" : [ "michigan", "detroit" ],
-    "statelongname" : "michigan"
+    "statelongname" : "Michigan"
   },
   "mn" : {
     "borders" : [ { "lat" : 43.452919, "lng" : -96.416016 },
@@ -337,7 +337,7 @@ states = {
       { "lat" : 47.04018, "lng" : -96.328125 },
       { "lat" : 43.452919, "lng" : -96.416016 } ],
     "keywords" : [ "minnesota" ],
-    "statelongname" : "minnesota"
+    "statelongname" : "Minnesota"
   },
   "mo" : {
     "borders" : [ { "lat" : 40.613953, "lng" : -91.450195 },
@@ -355,11 +355,11 @@ states = {
       { "lat" : 40.647305, "lng" : -95.493164 },
       { "lat" : 40.613953, "lng" : -91.450195 } ],
     "keywords" : [ "missouri" ],
-    "statelongname" : "missouri"
+    "statelongname" : "Missouri"
   },
   "mp" : {
     "keywords" : [ "northern mariana islands" ],
-    "statelongname" : "northern mariana islands"
+    "statelongname" : "Northern Mariana Islands"
   },
   "ms" : {
     "borders" : [ { "lat" : 34.92197, "lng" : -88.110352 },
@@ -373,7 +373,7 @@ states = {
       { "lat" : 34.957996, "lng" : -90.175781 },
       { "lat" : 34.92197, "lng" : -88.110352 } ],
     "keywords" : [ "mississippi" ],
-    "statelongname" : "mississippi"
+    "statelongname" : "Mississippi"
   },
   "mt" : {
     "borders" : [ { "lat" : 48.980217, "lng" : -104.0625 },
@@ -388,11 +388,11 @@ states = {
       { "lat" : 49.037868, "lng" : -116.015625 },
       { "lat" : 48.980217, "lng" : -104.0625 } ],
     "keywords" : [ "montana" ],
-    "statelongname" : "montana"
+    "statelongname" : "Montana"
   },
   "na" : {
     "keywords" : [ "national" ],
-    "statelongname" : "national"
+    "statelongname" : "National"
   },
   "nc" : {
     "borders" : [ { "lat" : 36.633163, "lng" : -75.893555 },
@@ -408,7 +408,7 @@ states = {
       { "lat" : 35.532227, "lng" : -75.805664 },
       { "lat" : 36.633163, "lng" : -75.893555 } ],
     "keywords" : [ "north carolina" ],
-    "statelongname" : "north carolina"
+    "statelongname" : "North Carolina"
   },
   "nd" : {
     "borders" : [ { "lat" : 48.922501, "lng" : -97.207031 },
@@ -417,7 +417,7 @@ states = {
       { "lat" : 49.095451, "lng" : -104.0625 },
       { "lat" : 48.922501, "lng" : -97.207031 } ],
     "keywords" : [ "north dakota" ],
-    "statelongname" : "north dakota"
+    "statelongname" : "North Dakota"
   },
   "ne" : {
     "borders" : [ { "lat" : 43.06889, "lng" : -104.106445 },
@@ -429,7 +429,7 @@ states = {
       { "lat" : 41.013065, "lng" : -104.150391 },
       { "lat" : 43.06889, "lng" : -104.106445 } ],
     "keywords" : [ "nebraska" ],
-    "statelongname" : "nebraska"
+    "statelongname" : "Nebraska"
   },
   "nh" : {
     "borders" : [ { "lat" : 42.940338, "lng" : -70.817871 },
@@ -444,7 +444,7 @@ states = {
       { "lat" : 42.650124, "lng" : -71.323242 },
       { "lat" : 42.940338, "lng" : -70.817871 } ],
     "keywords" : [ "new hampshire" ],
-    "statelongname" : "new hampshire"
+    "statelongname" : "New Hampshire"
   },
   "nj" : {
     "borders" : [ { "lat" : 40.513798, "lng" : -74.311523 },
@@ -459,7 +459,7 @@ states = {
       { "lat" : 40.245991, "lng" : -73.959961 },
       { "lat" : 40.513798, "lng" : -74.311523 } ],
     "keywords" : [ "new jersey" ],
-    "statelongname" : "new jersey"
+    "statelongname" : "New Jersey"
   },
   "nm" : {
     "borders" : [ { "lat" : 31.353638, "lng" : -108.94043 },
@@ -471,7 +471,7 @@ states = {
       { "lat" : 37.0201, "lng" : -109.116211 },
       { "lat" : 31.353638, "lng" : -108.94043 } ],
     "keywords" : [ "new mexico" ],
-    "statelongname" : "new mexico"
+    "statelongname" : "New Mexico"
   },
   "nv" : {
     "borders" : [ { "lat" : 34.307144, "lng" : -114.433594 },
@@ -484,7 +484,7 @@ states = {
       { "lat" : 39.027718, "lng" : -119.794922 },
       { "lat" : 34.307144, "lng" : -114.433594 } ],
     "keywords" : [ "nevada" ],
-    "statelongname" : "nevada"
+    "statelongname" : "Nevada"
   },
   "ny" : {
     "borders" : [ { "lat" : 44.980343, "lng" : -73.322754 },
@@ -512,7 +512,7 @@ states = {
       { "lat" : 44.087585, "lng" : -73.45459 },
       { "lat" : 44.980343, "lng" : -73.322754 } ],
     "keywords" : [ "new york", "brooklyn" ],
-    "statelongname" : "new york"
+    "statelongname" : "New York"
   },
   "oh" : {
     "borders" : [ { "lat" : 38.376114, "lng" : -82.661133 },
@@ -527,7 +527,7 @@ states = {
       { "lat" : 39.027718, "lng" : -84.726562 },
       { "lat" : 38.376114, "lng" : -82.661133 } ],
     "keywords" : [ "ohio" ],
-    "statelongname" : "ohio"
+    "statelongname" : "Ohio"
   },
   "ok" : {
     "borders" : [ { "lat" : 33.651207, "lng" : -94.526367 },
@@ -540,7 +540,7 @@ states = {
       { "lat" : 33.687782, "lng" : -96.635742 },
       { "lat" : 33.651207, "lng" : -94.526367 } ],
     "keywords" : [ "oklahoma" ],
-    "statelongname" : "oklahoma"
+    "statelongname" : "Oklahoma"
   },
   "or" : {
     "borders" : [ { "lat" : 42.032974, "lng" : -124.277344 },
@@ -548,8 +548,8 @@ states = {
       { "lat" : 46.073231, "lng" : -116.982422 },
       { "lat" : 45.706181, "lng" : -123.837891 },
       { "lat" : 42.032974, "lng" : -124.277344 } ],
-    "keywords" : [ "oregon" ],
-    "statelongname" : "oregon"
+    "keywords" : [ "oregon", "portland" ],
+    "statelongname" : "Oregon"
   },
   "pa" : {
     "borders" : [ { "lat" : 42.326061, "lng" : -79.936523 },
@@ -563,11 +563,11 @@ states = {
       { "lat" : 42.000324, "lng" : -80.507812 },
       { "lat" : 42.326061, "lng" : -79.936523 } ],
     "keywords" : [ "pennsylvania", "philadelphia" ],
-    "statelongname" : "pennsylvania"
+    "statelongname" : "Pennsylvania"
   },
   "pr" : {
     "keywords" : [ "puerto rico" ],
-    "statelongname" : "puerto rico"
+    "statelongname" : "Puerto Rico"
   },
   "ri" : {
     "borders" : [ { "lat" : 41.327328, "lng" : -71.817627 },
@@ -578,7 +578,7 @@ states = {
       { "lat" : 41.664703, "lng" : -71.784668 },
       { "lat" : 41.327328, "lng" : -71.817627 } ],
     "keywords" : [ "rhode island" ],
-    "statelongname" : "rhode island"
+    "statelongname" : "Rhode Island"
   },
   "sc" : {
     "borders" : [ { "lat" : 33.870415, "lng" : -78.574219 },
@@ -591,7 +591,7 @@ states = {
       { "lat" : 33.468109, "lng" : -79.057617 },
       { "lat" : 33.870415, "lng" : -78.574219 } ],
     "keywords" : [ "south carolina" ],
-    "statelongname" : "south carolina"
+    "statelongname" : "South Carolina"
   },
   "sd" : {
     "borders" : [ { "lat" : 43.06889, "lng" : -103.974609 },
@@ -601,7 +601,7 @@ states = {
       { "lat" : 46.073231, "lng" : -104.0625 },
       { "lat" : 43.06889, "lng" : -103.974609 } ],
     "keywords" : [ "south dakota" ],
-    "statelongname" : "south dakota"
+    "statelongname" : "South Dakota"
   },
   "tn" : {
     "borders" : [ { "lat" : 36.527294, "lng" : -89.121094 },
@@ -610,7 +610,7 @@ states = {
       { "lat" : 35.101933, "lng" : -90.439453 },
       { "lat" : 36.527294, "lng" : -89.121094 } ],
     "keywords" : [ "tennessee", "memphis" ],
-    "statelongname" : "tennessee"
+    "statelongname" : "Tennessee"
   },
   "tx" : {
     "borders" : [ { "lat" : 36.315125, "lng" : -103.007812 },
@@ -635,7 +635,7 @@ states = {
       { "lat" : 32.175613, "lng" : -102.919922 },
       { "lat" : 36.315125, "lng" : -103.007812 } ],
     "keywords" : [ "texas", "dallas", "houston", "san antonio", "cleveland" ],
-    "statelongname" : "texas"
+    "statelongname" : "Texas"
   },
   "ut" : {
     "borders" : [ { "lat" : 41.967659, "lng" : -114.038086 },
@@ -646,7 +646,7 @@ states = {
       { "lat" : 42.032974, "lng" : -111.09375 },
       { "lat" : 41.967659, "lng" : -114.038086 } ],
     "keywords" : [ "utah" ],
-    "statelongname" : "utah"
+    "statelongname" : "Utah"
   },
   "va" : {
     "borders" : [ { "lat" : 36.562599, "lng" : -83.891602 },
@@ -673,11 +673,11 @@ states = {
       { "lat" : 36.650791, "lng" : -75.959473 },
       { "lat" : 36.562599, "lng" : -83.891602 } ],
     "keywords" : [ "virginia", "hampton" ],
-    "statelongname" : "virginia"
+    "statelongname" : "Virginia"
   },
   "vi" : {
     "keywords" : [ "virgin islands" ],
-    "statelongname" : "virgin islands"
+    "statelongname" : "Virgin Islands"
   },
   "vt" : {
     "borders" : [ { "lat" : 42.763145, "lng" : -72.641602 },
@@ -692,7 +692,7 @@ states = {
       { "lat" : 43.628124, "lng" : -72.399902 },
       { "lat" : 42.763145, "lng" : -72.641602 } ],
     "keywords" : [ "vermont" ],
-    "statelongname" : "vermont"
+    "statelongname" : "Vermont"
   },
   "wa" : {
     "borders" : [ { "lat" : 48.400032, "lng" : -124.628906 },
@@ -703,7 +703,7 @@ states = {
       { "lat" : 48.224674, "lng" : -123.134766 },
       { "lat" : 48.400032, "lng" : -124.628906 } ],
     "keywords" : [ "washington", "seattle" ],
-    "statelongname" : "washington"
+    "statelongname" : "Washington"
   },
   "wi" : {
     "borders" : [ { "lat" : 46.830135, "lng" : -92.06543 },
@@ -721,7 +721,7 @@ states = {
       { "lat" : 46.377254, "lng" : -92.15332 },
       { "lat" : 46.830135, "lng" : -92.06543 } ],
     "keywords" : [ "wisconsin", "milwaukee" ],
-    "statelongname" : "wisconsin"
+    "statelongname" : "Wisconsin"
   },
   "wv" : {
     "borders" : [ { "lat" : 39.842285, "lng" : -80.771484 },
@@ -741,7 +741,7 @@ states = {
       { "lat" : 38.993572, "lng" : -82.056885 },
       { "lat" : 39.842285, "lng" : -80.771484 } ],
     "keywords" : [ "west virginia" ],
-    "statelongname" : "west virginia"
+    "statelongname" : "West Virginia"
   },
   "wy" : {
     "borders" : [ { "lat" : 41.145569, "lng" : -111.181641 },
@@ -750,7 +750,7 @@ states = {
       { "lat" : 45.151054, "lng" : -111.09375 },
       { "lat" : 41.145569, "lng" : -111.181641 } ],
     "keywords" : [ "wyoming" ],
-    "statelongname" : "wyoming"
+    "statelongname" : "Wyoming"
   }
 }
 
@@ -822,8 +822,6 @@ def hw():
                         temp_state = findStateKeyword(user_location)
                         if temp_state is not None:
                             state = temp_state
-                        else:
-                            print "Failed in attempt to derive state for user_location: " + user_location
                         
         if state is not None:
             associated_to_state = associated_to_state + 1
@@ -835,7 +833,8 @@ def hw():
     tweeter_feed_file.close()
 
     for state in sorted(state_scores, key = state_scores.__getitem__, reverse = True):
-        print state.upper() + "\t" + str(state_scores[state])
+        print states[state]['statelongname']
+        break
     
     #print "---"
     

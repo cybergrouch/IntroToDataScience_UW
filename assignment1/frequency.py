@@ -52,7 +52,7 @@ def hw():
     tweet_feed_file.close()
 
     for word_frequency in frequency_histogram_dict:
-        print word_frequency + "\t" + str(frequency_histogram_dict.get(word_frequency))
+        print word_frequency + " " + str(frequency_histogram_dict.get(word_frequency))
     
 def main():
     hw()

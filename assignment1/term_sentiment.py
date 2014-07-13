@@ -112,7 +112,7 @@ def hw():
     tweet_file.close()
     
     for non_sentiment_word_in_dict in sorted(non_sentiment_dict):
-        print non_sentiment_word_in_dict + "\t" + str(non_sentiment_dict.get(non_sentiment_word_in_dict))
+        print non_sentiment_word_in_dict + " " + str(non_sentiment_dict.get(non_sentiment_word_in_dict))
     
 def lines(fp):
     print str(len(fp.readlines()))
