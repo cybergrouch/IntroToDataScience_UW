@@ -30,11 +30,11 @@ def hw():
                 
         
         # 2.2. Filter the line if it is a processeable tweet
-        if 'entities' not in json_feed or json_feed.get('entities') is None:
+        if json_feed.get('entities') is None:
             continue
         json_feed_entities = json_feed.get('entities')
         
-        if 'hashtags' not in json_feed_entities or json_feed_entities.get('hashtags') is None:
+        if json_feed_entities.get('hashtags') is None:
             continue
 
         # 2.3. Lookup the hashtags for the line 
