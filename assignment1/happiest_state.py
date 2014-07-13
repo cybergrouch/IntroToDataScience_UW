@@ -833,7 +833,7 @@ def hw():
     tweeter_feed_file.close()
 
     for state in sorted(state_scores, key = state_scores.__getitem__, reverse = True):
-        print state
+        print state.upper()
         break
     
     #print "---"
