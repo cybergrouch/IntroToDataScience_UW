@@ -37,6 +37,9 @@ def hw():
         
         # 2.4. For each of the words in the text
         for word in words:
+            if not word:
+                continue
+            
             # 2.4.1. If the word is in the frequency_history_dict
             if word in frequency_histogram_dict:
                 # 2.4.1.1. get the word count from frequency_history_dict (word_count_history)
