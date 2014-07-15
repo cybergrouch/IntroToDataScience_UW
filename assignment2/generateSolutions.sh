@@ -8,4 +8,5 @@ runQuery "reuters.db" "select"
 runQuery "reuters.db" "select_project"
 runQuery "reuters.db" "union"
 runQuery "reuters.db" "count"
+runQuery "reuters.db" "big_documents"
 
