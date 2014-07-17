@@ -12,3 +12,5 @@ runQuery "reuters.db" "big_documents"
 runQuery "reuters.db" "two_words"
 
 runQuery "matrix.db" "multiply"
+
+runQuery "reuters.db" "similarity_matrix"
