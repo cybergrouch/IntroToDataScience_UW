@@ -1,7 +1,7 @@
-select count(*)
+select count(docid)
 from (
-    select docid, count(term)
-    from frequency 
+    select docid, sum(count)
+    from frequency
     group by docid
-    having count(term) > 300
+    having sum(count) > 300
 );

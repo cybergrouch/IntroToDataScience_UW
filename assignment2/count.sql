@@ -1,2 +1,2 @@
 select count(*)
-from (select * from frequency where docid = '10398_txt_earn');
+from (select distinct docid from frequency where term = 'parliament');
